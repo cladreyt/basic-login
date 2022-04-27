@@ -8,7 +8,6 @@ pascal:abc123
 pascal:12345678
 pascal:password1
 pascal:1234567
-pascal:Acrocat11
 pascal:123123
 pascal:1234567890
 pascal:000000
@@ -1255,7 +1254,6 @@ pascal:abc123
 pascal:12345678
 pascal:password1
 pascal:1234567
-pascal:Acrocat11
 pascal:123123
 pascal:1234567890
 pascal:000000
@@ -6966,7 +6964,6 @@ pascal:abc123
 pascal:12345678
 pascal:password1
 pascal:1234567
-pascal:Acrocat11
 pascal:123123
 pascal:1234567890
 pascal:000000
@@ -7737,7 +7734,6 @@ pascal:abc123
 pascal:12345678
 pascal:password1
 pascal:1234567
-pascal:Acrocat11
 pascal:123123
 pascal:1234567890
 pascal:000000
@@ -8454,7 +8450,6 @@ pascal:abc123
 pascal:12345678
 pascal:password1
 pascal:1234567
-pascal:Acrocat11
 pascal:123123
 pascal:1234567890
 pascal:000000
@@ -8494,7 +8489,6 @@ this is a test:abc123
 this is a test:12345678
 this is a test:password1
 this is a test:1234567
-this is a test:Acrocat11
 this is a test:123123
 this is a test:1234567890
 this is a test:000000
