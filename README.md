@@ -1,5 +1,5 @@
 # basicLogin
-Basic PHP login page that refers to a list of username and password combos
+Basic PHP login page that refers to a list of username and password combos, some python tests
 
 Login.php
 startup page, promps for a username and password. If the user:pass is a verified combo in the userList file,
