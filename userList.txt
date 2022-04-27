@@ -3,7 +3,6 @@ bobby:test
 aNewAcct:123456
 anotheracct:test111
 anewacct:asf
-chris:Acrocat11
 chris1:99
 pascal:texas
 thatBoi:sheesh
