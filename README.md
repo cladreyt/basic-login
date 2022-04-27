@@ -16,7 +16,7 @@ records all the accounts allowed, in user:pass format. This file is scanned to f
 records.txt
 every login attempt, allowed or not, is recorded in this file. If the login attempt is valid, has - correct tag.
 
-hackingTest.py
+bruteForceTest.py
 this is just a test file I made to try and brute force my own login page. Basic reading line after line from a test file
 to try and crack a specific username. Essentially experimenting with the force of my computer.
 
